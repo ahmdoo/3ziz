@@ -1,25 +1,25 @@
 $("style").last().append(`
 
-#users .uzr.muh img.co {
+#users .uzr.ahm img.co {
   transform: rotate(90deg);
   margin-top: -60px !important;
   margin-right: 340px;
 }
 
-#users .uzr.muh span.uhash{
+#users .uzr.ahm span.uhash{
     margin-right: 350px;
   margin-top: 24px;
   margin-left: 0px;}
 
 
-#users .uzr.muh img.u-ico {
+#users .uzr.ahm img.u-ico {
     
      
 
       
     }
 
-#users .uzr.muh img.ustat {
+#users .uzr.ahm img.ustat {
       width: 54px !important;
   border-radius: 0px 50px 50px 50px !important;
   height: 52px !important;
@@ -31,7 +31,7 @@ $("style").last().append(`
       
     }
 
-#users .uzr.muh .fitimg.u-pic {
+#users .uzr.ahm .fitimg.u-pic {
   border-radius: 100px !important;
   margin-top: 23px !important;
   height: 52px !important;
@@ -41,7 +41,7 @@ margin-bottom: 9px !important;
 padding: 30px !important;
 }
 
-#users .uzr.muh .u-msg {
+#users .uzr.ahm .u-msg {
 	text-align: center;
   -webkit-background-clip: text;
   
@@ -61,7 +61,7 @@ margin-top: 17px !important;
 
 
 
-#users .uzr.muh {
+#users .uzr.ahm {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
@@ -77,16 +77,16 @@ background-position: right;
 
 
 
-#users .uzr.muh .d-flex.fl {
+#users .uzr.ahm .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.muh .u-topic {
+#users .uzr.ahm .u-topic {
 -webkit-text-fill-color: transparent;
   margin-left: 5px;
 }
 
-#users .uzr.muh .itarr_muh {
+#users .uzr.ahm .itarr_ahm {
  width: 132px;
 height: 89px;
 margin-top: -53px;
@@ -101,18 +101,18 @@ border-radius: 19px;
 
 `);
 
-var mua2=setInterval(function(){
+var ahm2=setInterval(function(){
     if(myid!=null){
-        clearInterval(mua2);
-       $("#users .uzr:contains('أحمد')").addClass('muh');
+        clearInterval(ahm2);
+       $("#users .uzr:contains('أحمد')").addClass('ahm');
 		
 		
 		
 		
-        $("#users .uzr.muh .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://a.top4top.io/p_2591q1rdn0.png">');
+        $("#users .uzr.ahm .fitimg.u-pic").append('<img class="itarr_ahm" title="اطاري" src="https://a.top4top.io/p_2591q1rdn0.png">');
 		
 		
 		
 
     }
-}, 10);
+}, 20000);
