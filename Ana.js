@@ -104,7 +104,7 @@ border-radius: 19px;
 var mua2=setInterval(function(){
     if(myid!=null){
         clearInterval(mua2);
-       $("#users .uzr:contains('@:')").addClass('muh');
+       $("#users .uzr:contains('أحمد')").addClass('muh');
 		
 		
 		
@@ -115,4 +115,4 @@ var mua2=setInterval(function(){
 		
 
     }
-}, 20000);
+}, 10);
