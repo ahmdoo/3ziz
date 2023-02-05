@@ -456,7 +456,8 @@ var me_user1=setInterval(function(){
           
 		  
         $("#movon1").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://youtu.be/svA75h-GX68" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
-        
+
+
        $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
