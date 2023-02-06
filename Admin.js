@@ -46,7 +46,7 @@ $("style").last().append(`
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 4px;
+  border-radius: 20px;
   background-size: cover;
   border: 1px solid #fff;
 }
@@ -62,7 +62,7 @@ $("style").last().append(`
 }
 #users .uzr.stl1 .My_star1 {
   width: 64px;
-  margin-top: -67px;
+  margin-top: -66px;
   margin-left: 10px;
   height: 60px;
 }
