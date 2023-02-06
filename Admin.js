@@ -62,7 +62,7 @@ $("style").last().append(`
 }
 #users .uzr.stl1 .My_star1 {
   width: 64px;
-  margin-top: -64px;
+  margin-top: -69px;
   height: 60px;
 }
 
