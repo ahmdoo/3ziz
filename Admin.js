@@ -61,9 +61,9 @@ $("style").last().append(`
   margin-left: 5px;
 }
 #users .uzr.stl1 .My_star1 {
-  width: 84px;
-  margin-top: -67px;
-  height: 80px;
+  width: 64px;
+  margin-top: -87px;
+  height: 60px;
 }
 
 #users .uzr.stl1 .My_vedio1 {
