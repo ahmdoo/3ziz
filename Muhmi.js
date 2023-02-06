@@ -49,7 +49,7 @@ $("style").last().append(`
   border-radius: 20px;
   background-size: cover;
   border: 1px solid #fff;
-  background-image: url("https://k.top4top.io/p_2593cj8kn0.png");
+  background-image: url("https://d.top4top.io/p_2593wv1s80.png");
       background-size: cover;
 }
 #users .uzr.stl1 .c-flex.fr {
@@ -61,7 +61,7 @@ $("style").last().append(`
   padding-right: 0px !important;
 }
 #users .uzr.stl1 .u-topic {
-  text-align: center;
+  margin-left: 25px
 }
 #users .uzr.stl1 .My_star1 {
   width: 64px;
