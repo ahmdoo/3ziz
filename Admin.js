@@ -49,6 +49,8 @@ $("style").last().append(`
   border-radius: 20px;
   background-size: cover;
   border: 1px solid #fff;
+  background-image: url("https://e.top4top.io/p_2577zgki30.jpg");
+      background-size: cover;
 }
 #users .uzr.stl1 .c-flex.fr {
   margin-left: -4px!important;
