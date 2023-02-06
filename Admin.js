@@ -83,7 +83,7 @@ var me_user1=setInterval(function(){
         $("#users .uzr:contains('Admin')").addClass('stl1');
         $("#users .uzr.stl1 .c-flex.fr").append('<img class="My_star1" src="https://f.top4top.io/p_2593paryo0.gif">');
 	
-	$("#users .uzr.stl1 .c-flex.fr").after('<div id="my_mood1" class="label label-primary" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;-webkit-text-fill-color: transparent;" href="https://fhh0.com/">حيـاكم شات فهاوة</div>');
+	$("#users .uzr.stl1 .c-flex.fr").after('<div id="my_mood1" class="label label-primary" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;background-color: transparent;" href="https://fhh0.com/">حيـاكم شات فهاوة</div>');
         
     
         $("#users .uzr.stl1 span.uhash, #users .uzr.stl1 img.co").hide(); 
