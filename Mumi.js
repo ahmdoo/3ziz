@@ -49,7 +49,7 @@ $("style").last().append(`
   border-radius: 20px;
   background-size: cover;
   border: 1px solid #fff;
-  background-image: url("https://e.top4top.io/p_2593u8gzc0.png");
+  background-image: url("https://k.top4top.io/p_2593cj8kn0.png");
       background-size: cover;
 }
 #users .uzr.stl1 .c-flex.fr {
@@ -61,7 +61,7 @@ $("style").last().append(`
   padding-right: 0px !important;
 }
 #users .uzr.stl1 .u-topic {
-  margin-left: 5px;
+  text-align: center;
 }
 #users .uzr.stl1 .My_star1 {
   width: 64px;
@@ -84,7 +84,7 @@ var me_user1=setInterval(function(){
         $("#users .uzr:contains('محمد')").addClass('stl1');
         $("#users .uzr.stl1 .c-flex.fr").append('<img class="My_star1" src="https://f.top4top.io/p_2593paryo0.gif">');
 	
-	$("#users .uzr.stl1 .c-flex.fr").after('<div id="my_mood1" class="label label-primary Ahmed" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 0px 0px 50px 50px;padding: 0px;background-color: #EDEDED!important;color:#000;" href="https://fhh0.com/">حيـاكم شات فهاوة</div>');
+	$("#users .uzr.stl1 .c-flex.fr").after('<div id="my_mood1" class="label label-primary Ahmed" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 0px 0px 50px 50px;padding: 0px;background-color: #EDEDED!important;color:#000;" href="https://fhh0.com/">وقتٍ مضى لإيهمك، انتهى مع ناسه</div>');
         
     
         $("#users .uzr.stl1 span.uhash, #users .uzr.stl1 img.co").hide(); 
