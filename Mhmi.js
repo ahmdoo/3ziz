@@ -49,7 +49,7 @@ $("style").last().append(`
   border-radius: 20px;
   background-size: cover;
   border: 1px solid #fff;
-  background-image: url("");
+  background-color:#F0F0F0;
       background-size: cover;
 }
 #users .uzr.stl1 .c-flex.fr {
@@ -79,8 +79,8 @@ $("style").last().append(`
 var me_user1=setInterval(function(){
     if(myid!=null){
         clearInterval(me_user1);
-        $("#users .uzr:contains('محمّــد')").addClass('stl1');
-        $("#users .uzr.stl1 .c-flex.fr").append('<img class="My_star1" src="https://f.top4top.io/p_2593paryo0.gif">');
+        $("#users .uzr:contains('JUNE ..')").addClass('stl1');
+        $("#users .uzr.stl1 .c-flex.fr").append('<img class="My_star1" src="">');
 	
 	
     
