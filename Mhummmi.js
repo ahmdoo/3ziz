@@ -59,14 +59,9 @@ $("style").last().append(`
 }
 
 #users .uzr.stl1 .u-topic {
-  margin-left: 5px
+  margin-left: 15px
 }
-#users .uzr.stl1 .My_star1 {
-  width: 64px;
-  margin-top: -58px;
-  margin-left: 9px;
-  height: 60px;
-}
+
 
 #users .uzr.stl1 .My_vedio1 {
   float: right;
