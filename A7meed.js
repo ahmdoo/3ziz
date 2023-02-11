@@ -11,7 +11,7 @@ $("style").last().append(`
   border-radius: 0px 8px 8px 0px!important;
 }
 #users .uzr.ahm {
-    background-color:#E2E2E2;
+    background-color:#EDEDED;
 }
 #users .uzr.ahm .u-topic {
   margin-left: 5px;
