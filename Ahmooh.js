@@ -1,4 +1,4 @@
-$.getScript("https://raw.githack.com/ahmdoo/3ziz/main/A7med.js");
+$.getScript("https://raw.githack.com/ahmdoo/muhamed/main/Ahd.js");
 
 var lail=setInterval(function(){
     if(myid!=null){
