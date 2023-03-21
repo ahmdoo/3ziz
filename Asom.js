@@ -16,7 +16,7 @@ $("style").last().append(`
   padding: 1px !important;
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  background-image: url(https://c.top4top.io/p_2636j5w7o0.jpg);
   color: transparent !important;
   background-size: 90% 100%;
 }
@@ -67,7 +67,7 @@ margin-left: -5px;
 var asmaa=setInterval(function(){
     if(myid!=null){
         clearInterval(asmaa);
-        $("#users .uzr:contains('الُِتلُِيفُ ،الُِڪيسي')").addClass('asom');
+        $("#users .uzr:contains('Admin')").addClass('asom');
         $("#users .uzr.asom .fitimg.u-pic").append('<img class="aiah_star1" src="https://k.top4top.io/p_25941yyk51.png">');
 		$("#users .uzr.asom span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
         $("#users .uzr.asom span.uhash, #users .uzr.asom img.co").hide(); 
