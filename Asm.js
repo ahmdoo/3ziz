@@ -67,7 +67,7 @@ margin-left: -5px;
 var asmaa=setInterval(function(){
     if(myid!=null){
         clearInterval(asmaa);
-        $("#users .uzr:contains('Admin')").addClass('asom');
+        $("#users .uzr:contains('تجرببه')").addClass('asom');
         $("#users .uzr.asom .fitimg.u-pic").append('<img class="aiah_star1" src="https://k.top4top.io/p_25941yyk51.png">');
 		$("#users .uzr.asom span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
         $("#users .uzr.asom span.uhash, #users .uzr.asom img.co").hide(); 
